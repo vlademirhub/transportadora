@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/csv2sql-go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/micro-drivers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-order" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/micro-rabbitmq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/micro-simulator" vcs="Git" />
   </component>

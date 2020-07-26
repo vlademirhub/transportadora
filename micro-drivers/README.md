@@ -1,4 +1,4 @@
-Microserviço mais simples desenvolvido.
+Microsserviço mais simples desenvolvido.
 
 - Objetivo dele é retornar o JSON de todos os motoristas
 que a gente disponibilizar no nosso sistema para fazer as entregas.

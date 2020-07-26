@@ -14,7 +14,10 @@ services:
       - RABBITMQ_DEFAULT_PASS=admin
     networks:
       - network
+      - rabbitmq_network
 
 networks:
   network:
     driver: bridge
+  rabbitmq_network:
+    external: true

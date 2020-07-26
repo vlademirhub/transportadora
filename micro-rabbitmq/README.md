@@ -6,7 +6,7 @@ RabbitMQ é um servidor de mensageria de código aberto (open source) desenvolvi
 
 Dentre as aplicabilidades do RabbitMQ estão possibilitar a garantia de assincronicidade entre aplicações, diminuir o acoplamento entre aplicações, distribuir alertas, controlar fila de trabalhos em background.
 
-RabbitMQ usado entre os microserviços
+RabbitMQ usado entre os microsserviços
 
 ## Rodar a aplicação
 

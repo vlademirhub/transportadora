@@ -39,7 +39,7 @@ func loadDrivers() []byte {
 }
 
 func ListDrivers(w http.ResponseWriter, r *http.Request) {
-	drivers := loadDrivers()// chama a loadDrivers que trabalha com arquivo JSON(raiz do microserviço), para não ter trabalho de configurar um db para isso.
+	drivers := loadDrivers()// chama a loadDrivers que trabalha com arquivo JSON(raiz do microsserviço), para não ter trabalho de configurar um db para isso.
 	w.Write([]byte(drivers))// esse Write é equivalente os Response, aqui retorno o resultado dos motoristas.
 }
 
